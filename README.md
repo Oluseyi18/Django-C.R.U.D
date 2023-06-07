@@ -1,2 +1,2 @@
-# Django-C.R.U.D---Zuri
-Django C.R.U.D Task at the 14GxZuri training 2022
+# Django-C.R.U.D
+Django C.R.U.D Project
